@@ -1,0 +1,88 @@
+{
+    "common": {
+        "selectResorts": "Select Resorts",
+        "selectPeriod": "Select period",
+        "selectMetric": "Select metric",
+        "last50Years": "Last 50 years",
+        "last20Years": "Last 20 years",
+        "last10Years": "Last 10 years",
+        "last5Years": "Last 5 years",
+        "lastYear": "Last year",
+        "last6Months": "Last 6 months",
+        "last3Months": "Last 3 months",
+        "startDate": "Start date",
+        "endDate": "End date",
+        "showData": "Show Data",
+        "hideData": "Hide Data",
+        "showTrends": "Show Trends",
+        "hideTrends": "Hide Trends",
+        "unfavorableConditions": "Unfavorable Conditions",
+        "notRecommended": "Not Recommended",
+        "selectResortsMessage": "Please select resorts to display data",
+        "resortStats": "Resort Statistics",
+        "comparison": "Comparison",
+        "trend": "Trend",
+        "weatherConditions": "Weather Conditions",
+        "eventsAndNews": "Events and News",
+        "event": "Event",
+        "news": "News",
+        "facts": "Interesting Facts",
+        "recommendations": "Recommendations"
+    },
+    "metrics": {
+        "temperature": "Temperature",
+        "humidity": "Humidity",
+        "precipitation": "Precipitation",
+        "visitorCount": "Visitor Count (people)",
+        "windSpeed": "Wind Speed"
+    },
+    "conditions": {
+        "temperature": {
+            "critical": {
+                "low": "❄️ Cold",
+                "high": "🔥 Hot"
+            },
+            "warning": {
+                "low": "🌤️ Cool",
+                "high": "☀️ Warm"
+            },
+            "normal": "🌡️ Comfortable"
+        },
+        "humidity": {
+            "critical": {
+                "low": "🏜️ Dry",
+                "high": "🌧️ Humid"
+            },
+            "warning": {
+                "low": "🌤️ Slightly dry",
+                "high": "💧 High"
+            },
+            "normal": "🌤️ Normal"
+        },
+        "precipitation": {
+            "critical": {
+                "high": "🌧️ Heavy"
+            },
+            "warning": {
+                "high": "🌦️ Moderate"
+            },
+            "normal": "☀️ Low"
+        },
+        "visitorCount": {
+            "critical": {
+                "high": "👥 Crowded"
+            },
+            "warning": {
+                "high": "👥 Medium",
+                "low": "👤 Low"
+            },
+            "normal": "👥 Normal"
+        }
+    },
+    "resorts": {
+        "bali": "Bali",
+        "phuket": "Phuket",
+        "cancun": "Cancun",
+        "maldives": "Maldives"
+    }
+}
